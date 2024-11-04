@@ -1,5 +1,5 @@
 # Frontend Mentor | Huddle landing page
-Este é um projeto do frontend mentor, no qual foi criado uma lending page contendo no cabeçalho o logo da empresa (Huddle). No main, ilustrações da comunidade da página e informações da empresa com um botão para se resgistrar. E no rodapé tem links para as redes sociais da empresa.
+Este é um projeto do frontend mentor, no qual foi criado uma landing page contendo no cabeçalho o logo da empresa (Huddle). No main, ilustrações da comunidade da página e informações da empresa com um botão para se resgistrar. E no rodapé tem links para as redes sociais da empresa.
 
 ## Tecnologias
 
