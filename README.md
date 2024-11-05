@@ -11,4 +11,4 @@ O desafio serviu para por em prática minhas habilidades de HTML e CSS, principa
 ![gif](https://github.com/user-attachments/assets/8b2737da-978c-4f45-a128-289b8fb9d0e5)
 <br><br><br>
 
-#Obrigado pela atenção :v
+Obrigado pela atenção :v
