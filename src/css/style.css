@@ -4,84 +4,97 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
     font-family: 'Open Sans', serif;
+    max-width: 100%;
+    max-height: 100%;
+    height: 100vh;
 }
 
 /* HEADER */
 
 .logo img{
-    width: 250px;
+    width: 350px;
     padding: 20px;
-    margin: 20px 100px;
+    margin-top: 30px;
+    margin-left: 75px;
 }
 
 /* MAIN */
 
 main{
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2rem;
+    gap: 2rem;
 }
 
-.ilustracoes img{
-    width: 750px;
 
+.ilustracoes img{
+    max-width: 100%;
+    padding: 30px 60px;
 }
 
 .informacoes{
     display: flex;
     flex-direction: column;
-    align-items: flex-start;
-    max-width: 600px;
-    padding: 50px;
+    align-items: start;
+    text-align: left;
+    max-width: 50%;
+    margin-bottom: 100px;
 }
 
-.informacoes h2{
+.informacoes h1{
     color: white;
-    font-weight: 500;
-    font-size: 40px;
+    font-weight: 700;
+    font-size: 50px;
     padding-bottom: 40px;
 }
 
 .informacoes p{
     color: white;
-    font-size: 18px;
+    font-size: 20px;
     font-weight: 300;
     padding-bottom: 40px;
     line-height: 28px;
+    letter-spacing: 1px;
 }
 
-.informacoes .button{
-    width: 200px;
-    height: 50px;
-    border-radius: 40px;
+.informacoes .btn-register{
+    width: 250px;
+    height: 75px;
+    border-radius: 50px;
     border: none;
     box-shadow: 3px 3px 10px 3px rgba(0, 0, 0, 0.3);
     cursor: pointer;
-    font-size: 16px;
+    font-size: 24px;
     color: hsl(257, 40%, 49%);
     font-weight: 500;
     transition: 0.3s;
 }
 
-.informacoes .button:hover{
+.informacoes .btn-register:hover{
     background-color: hsl(300, 69%, 71%);
+    color: white;
 }
 
 /* FOOTER */
 
-footer{
+footer ul{
     display: flex;
-    justify-content: end;
-    padding: 30px 80px;
+    justify-content: end; 
+    padding: 20px 60px;
 }
 
-footer a{
+footer ul li{
     padding: 10px;
     color: white;
-    font-size: 18px;
+    font-size: 24px;
     transition: 0.3s;
 }
 
-footer a:hover{
-    font-size: 20px;
+footer ul li:hover{
+    font-size: 29px;
+    color:  hsl(300, 69%, 71%);
+    cursor: pointer;
 }
     
