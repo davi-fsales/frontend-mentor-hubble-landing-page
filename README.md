@@ -5,7 +5,7 @@ Este é um projeto do frontend mentor, no qual foi criado uma landing page conte
 HTML | CSS
 
 ## Funcionalidades
-- Página com designe moderno
+- Página com design moderno
 - Botões interativos com efeitos visuais
 - Ajustes de responsividade para mobile
 
